@@ -91,4 +91,4 @@ See the `project-conventions` and `tunit-testing` skills for detailed guidance.
 
 ---
 
-*Composed from [TheSereyn.Templates](https://github.com/TheSereyn/TheSereyn.Templates) @ v0.1.0*
+*Composed from [TheSereyn.Templates](https://github.com/TheSereyn/TheSereyn.Templates) @ v0.1.1*
